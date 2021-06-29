@@ -1,0 +1,4 @@
+./Backend/node_modules/*
+Backend/node_modules/*
+./Frontend/my-foro/node_modules/*
+Frontend/my-foro/node_modules/*
